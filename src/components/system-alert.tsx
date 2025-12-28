@@ -74,7 +74,7 @@ export function SystemAlert() {
               </span>
               .
             </p>
-            <a 
+            <a
               href="https://vision.hack2skill.com/event/gdgoc-25-hackcentrix"
               target="_blank"
               rel="noopener noreferrer"
