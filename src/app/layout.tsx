@@ -27,6 +27,25 @@ export const metadata: Metadata = {
     ],
     apple: "/icon.png",
   },
+  openGraph: {
+    title: "Hackcentrix | GDG On Campus GLAU",
+    description: "A high-stakes hackathon where tech meets the supernatural.",
+    images: [
+      {
+        url: "/og.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Hackcentrix",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Hackcentrix | GDG On Campus GLAU",
+    description: "A high-stakes hackathon where tech meets the supernatural.",
+    images: ["/og.jpg"],
+  },
+  themeColor: "#ff0909",
 };
 
 export default function RootLayout({
